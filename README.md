@@ -1,16 +1,9 @@
-# untitled3
+# проект с полным grit view 
+## Студент группы 3исп 9-21 Голобурдина
+Экран приложения: карточки скроллятся
 
-A new Flutter project.
+![image](https://github.com/Xmmmmm000/Grit-view/assets/156674182/8baeda05-4843-4814-bf9e-a2b6724e39aa)
 
-## Getting Started
+![image](https://github.com/Xmmmmm000/Grit-view/assets/156674182/2a4b965c-ad09-48b4-9345-ac15055761d9)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
